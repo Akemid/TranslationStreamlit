@@ -1,0 +1,7 @@
+numpy
+streamlit
+opencv-python-headless
+pillow
+streamlit-drawable-canvas
+googletrans==4.0.0-rc1
+pyttsx3
